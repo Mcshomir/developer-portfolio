@@ -1,0 +1,12 @@
+.half-width {
+    width: 50%;
+    display: flex;
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.orange-color {
+    color: orange;
+}
