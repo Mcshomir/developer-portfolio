@@ -8,17 +8,22 @@ h1 {
     font-size: 30px;
 }
 
+p {
+    margin-bottom: 40px;
+}
+
 .orange-color {
     color: orange;
 }
 
 section {
     display: flex;
+    margin-bottom: 20px;
 }
 
 .half-width {
     width: 50%;
-    padding: 10%;
+    padding: 5%;
 
 }
 
@@ -30,6 +35,7 @@ section {
     width: 100%;
 }
 
+
 .link-button {
     text-decoration: none;
     background-image: linear-gradient(to left, tomato, orange);
@@ -37,7 +43,6 @@ section {
     padding: 10px 40px;
     color: white;
     font-weight: 700;
-
 
 }
 
@@ -51,3 +56,12 @@ section {
 /* first section end */
 
 /* second section start for here */
+.dream-big {
+    background-image: url(images/dream-bg.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+
+.forth-part {
+    margin-top: 50px;
+}
